@@ -1,0 +1,2 @@
+# CscsResource
+storage widget zip
